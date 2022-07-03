@@ -1,0 +1,13 @@
+export const USER_REGISTER = "USER_REGISTER";
+export const USER_lOGIN = "USER_LOGIN";
+export const USER_FAIL = "USER_FAIL";
+export const GET_USER = "GET_USER";
+export const SET_ALERT = "SET_ALERT";
+export const REMOVE_ALERT = "REMOVE_ALERT";
+export const LOGOUT = "LOGOUT";
+export const GETALLEVENTS = "GETALLEVENTS";
+export const FILTEREVENT = "FILTEREVENT";
+export const GET_EVENT = "GET_EVENT";
+export const GETALLCLIENTS = "GETALLCLIENTS";
+export const FILTERCLIENT = "FILTERCLIENT ";
+export const GET_CLIENT = "GET_CLIENT ";

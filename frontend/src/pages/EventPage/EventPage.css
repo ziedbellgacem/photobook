@@ -1,0 +1,24 @@
+.eventPage{
+    background-color: #D1D1d1;
+padding: 50px 100px;
+
+}
+.eventCont{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+        box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.listClient{
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 5px;
+            box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.ajoutClient{
+    margin-top: 50px;
+    display: flex;
+    justify-content: flex-end;
+}

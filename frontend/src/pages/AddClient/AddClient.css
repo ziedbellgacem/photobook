@@ -1,0 +1,15 @@
+.addClient {
+    background-color: #D1D1d1;
+    padding: 65px 35%;
+}
+.addclentform{
+    background-color: white;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+        box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1E90FF;
+    padding: 5px 50px;
+    align-items: center;
+    
+
+}
+
+.navCont{
+    display: flex;
+    gap: 40px;
+}
+.nav h3{
+    cursor: pointer;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 18px;
+}

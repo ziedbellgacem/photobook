@@ -1,0 +1,21 @@
+.events{
+    background-color: white;
+    width: 100%;
+    border-radius: 5px;
+        box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.eventsBtn{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    padding-top: 20px;
+}
+.table1 {
+   margin-top: 50px;
+    width: 100%;
+}
+
+.thead1 {
+    background-color: #007aff;
+    color: aliceblue;
+}
